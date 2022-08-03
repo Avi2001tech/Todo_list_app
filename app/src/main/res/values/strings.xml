@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Todo list</string>
+    <string name="save_task">Save Task</string>
+    <string name="max_progress">Max Progress</string>
+    <string name="language">Language</string>
+    <string name="task_name">Task Name</string>
+    <string name="initial_progress">Initial Progress</string>
+    <string name="initial_number">Initial Number</string>
+    <string name="final_number">Final Number</string>
+    <string name="learn_java">Learn Java</string>
+    <string name="todo">TODO</string>
+    <string name="_10_30">10/30</string>
+    <string name="_5_25">5/25</string>
+    <string name="learn_python">Learn Python</string>
+    <string name="decrease">Decrease</string>
+</resources>
